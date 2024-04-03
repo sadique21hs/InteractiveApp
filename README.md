@@ -29,3 +29,5 @@ Contributions are welcome! If you'd like to contribute to the development of thi
 4. Push your changes to your fork.
 5. Submit a pull request to the main repository explaining the changes you've made.
 
+**APK File:**
+An APK file has been provided for your convenience. You can download and install it on your phone to experience the UI Theme Changer App firsthand. Please find the APK file attached to this repository.
