@@ -28,3 +28,4 @@ Contributions are welcome! If you'd like to contribute to the development of thi
 3. Make your changes and commit them with clear, concise commit messages.
 4. Push your changes to your fork.
 5. Submit a pull request to the main repository explaining the changes you've made.
+
